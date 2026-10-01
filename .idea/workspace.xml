@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e8c8198-009d-464a-bb8b-876c458e1e42" name="Changes" comment="initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/terminal/KeyHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/terminal/KeyHandler.java" afterDir="false" />
+    <list default="true" id="0e8c8198-009d-464a-bb8b-876c458e1e42" name="Changes" comment="interactive terminal in zsh startable by bash script and non interactive fallback in intellij">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/terminal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/terminal/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/terminal/StartingBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/terminal/StartingBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start.sh" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +48,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "winterkultist"
+  }
+}]]></component>
   <component name="GitLabMergeRequestFiltersHistory"><![CDATA[{
   "lastFilter": {
     "state": "OPENED",
@@ -64,6 +68,12 @@
   "selectedUrlAndAccountId": {
     "first": "git@gitlab.tse.twinformatics.at:lak/ausbildner/lj1/lak-basic-interactive-terminal.git",
     "second": "f4931687-b139-49f2-9006-7c56943057ac"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/winterkultist/lak-basic-interactive-terminal.git",
+    "accountId": "df84fdfd-f647-4090-a89b-ef050ba5bd22"
   }
 }]]></component>
   <component name="ProjectColorInfo">{
@@ -145,6 +155,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="interactive terminal in zsh startable by bash script and non interactive fallback in intellij" />
+    <option name="LAST_COMMIT_MESSAGE" value="interactive terminal in zsh startable by bash script and non interactive fallback in intellij" />
   </component>
 </project>
